@@ -15,4 +15,4 @@ I added classes and changed divs to follow Semantic HTML. I then ondensed and co
 
 ## Link
 
-https://github.com/killbeevol2/code-refactor.git
+[Deploy Link](https://killbeevol2.github.io/code-refactor/)
